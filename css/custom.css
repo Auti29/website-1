@@ -20,10 +20,12 @@ a {
 
 a:hover {
     text-decoration: underline;
+    background-color: #edebe4;
 }
 
 nav a:hover {
     text-decoration: none;
+    
 }
 
 .container {
